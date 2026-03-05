@@ -1,1 +1,0 @@
-find ./* -type f -name '*.php' -printf "%TY-% Tm-%Td %TT %p\n" | sort -n
